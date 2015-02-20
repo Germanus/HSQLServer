@@ -1,0 +1,1 @@
+DELETE FROM "PUBLIC"."schema_version" where "PUBLIC"."schema_version"."version_rank"=3
